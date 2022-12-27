@@ -1,0 +1,15 @@
+/Users/philipp/SpeccializationFinalProject/bin/Debug/net6.0/SpeccializationFinalProject
+/Users/philipp/SpeccializationFinalProject/bin/Debug/net6.0/SpeccializationFinalProject.deps.json
+/Users/philipp/SpeccializationFinalProject/bin/Debug/net6.0/SpeccializationFinalProject.runtimeconfig.json
+/Users/philipp/SpeccializationFinalProject/bin/Debug/net6.0/SpeccializationFinalProject.dll
+/Users/philipp/SpeccializationFinalProject/bin/Debug/net6.0/SpeccializationFinalProject.pdb
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.csproj.AssemblyReference.cache
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.AssemblyInfoInputs.cache
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.AssemblyInfo.cs
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.csproj.CoreCompileInputs.cache
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.dll
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/refint/SpeccializationFinalProject.dll
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.pdb
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/SpeccializationFinalProject.genruntimeconfig.cache
+/Users/philipp/SpeccializationFinalProject/obj/Debug/net6.0/ref/SpeccializationFinalProject.dll
